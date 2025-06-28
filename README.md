@@ -6,6 +6,7 @@ This is the version of the Phyrebird's theme I'm working on. I am not related to
 - The ScreenSelectMusic timer is set to 90, but is now actually counting 135 seconds, as Phoenix uses 1.5s for each timer tick instead of 1s.
 - Grades now appear on the ScreenSelectMusic for Player 2. This was a bug that has been fixed.
 - Step artist's name now appears on the ScreenEvaluation. This was a bug that has been fixed.
+- Removed New Record sound and upscore (+X,XXX) when the player has a stage break, to imitate the behaviour of Phoenix.
 - Titles have been added, thanks to xenogenesis5922 who sent the .PSD file used to make them. They work like player profiles' avatars, as they can be added to the `Save/LocalProfiles/{player_id}/` folder and show up in game. You have to manually add them though, as titles were not intended in the base game (I will try to implement them properly someday).
 
 ## Installation
