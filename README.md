@@ -17,7 +17,7 @@ This is the version of the Phyrebird's theme I'm working on. I am not related to
 
   Your profile folder should look like this :
   
-  ![image](https://github.com/user-attachments/assets/bd38cf5c-4979-46c2-ba94-85b340a094e6)
+  ![Screenshot 2025-06-28 051649](https://github.com/user-attachments/assets/1b636cea-2553-4148-8c43-f3dc336e0df3)
 
 ## Main issues
 - The titles have to be two files since there are different offsets for both players and for different titles (some of them are longer, and require different offsets).
