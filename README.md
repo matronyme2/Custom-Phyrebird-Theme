@@ -1,6 +1,6 @@
 # Custom-Phyrebird-Theme
 
-This is the version of the Phyrebird's theme I'm working on. I am not related to the main project and its team, but I wanted to modify it too.
+This is the modified version of StepP1+ using Phyrebird theme I'm working on. I am not related to the main project and its team, but I wanted to modify it too. It contains the whole game, since I've changed some screens and content
 
 ## Key features
 - The ScreenSelectMusic timer is set to 90, but is now actually counting 135 seconds, as Phoenix uses 1.5s for each timer tick instead of 1s.
@@ -10,7 +10,7 @@ This is the version of the Phyrebird's theme I'm working on. I am not related to
 - Titles have been added, thanks to xenogenesis5922 who sent the .PSD file used to make them. They work like player profiles' avatars, as they can be added to the `Save/LocalProfiles/{player_id}/` folder and show up in game. You have to manually add them though, as titles were not intended in the base game (I will try to implement them properly someday).
 
 ## Installation
-- To use this theme, you will have to replace your current theme from Phyrebird's files. Make sure to make a backup of your current theme if you want to keep it. Place this repository's `Fiesta 2` folder into the `Themes/` folder.
+- To use this version, download the repository and place it somewhere on your pc. Do NOT install it over an existing StepP1 version.
   
 - To set titles to your profile, you need to copy the two PNGs (for P1 and P2) of one title from `Themes\Fiesta 2\Graphics\ScreenSystemLayer\Titles`, and paste them into your save profile.
   -  Rename them `Title P1.png` and `Title P2.png`, and you're good to go.
