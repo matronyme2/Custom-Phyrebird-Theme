@@ -1,0 +1,265 @@
+Phoenix Title Tracker(™)
+
+[B] - Bronze
+[S] - Silver
+[G] - Gold
+[D] - Diamond
+
+**taken from https://en.namu.wiki/w/%ED%8E%8C%ED%94%84%20%EC%9E%87%20%EC%97%85/%EC%B9%AD%ED%98%B8**
+**IT WILL BE SPECIFIED IF IT IS UNIQUE CHARTS/SONGS**
+
+0. Beginner - given to literally everyone who clicked the start button in Phoenix - DONE lol
+
+1. Follower Titles - play x amount of charts by a certain stepmaker to get the title
+
+	EXC - 0
+	FEFEMZ - 0
+	SUNNY - 0
+	DULKI - 0
+	CONRAD - 0
+	SPHAM - 0
+
+	[B] EXC Follower (100 Charts by EXC)
+	[B] FEFEMZ Follower (100 Charts by FEMFEZ)
+	[B] SUNNY Follower (100 Charts by SUNNY)
+	[B] DULKI Follower (100 Charts by DULKI)
+	[B] CONRAD Follower (100 Charts by CONRAD)
+	[B] SPHAM Follower (100 Charts by SPHAM)
+
+	[G] A huge fan of EXC (500 Charts by EXC)
+	[G] A huge fan of FEFEMZ (500 Charts by FEMFEZ)
+	[G] A huge fan of SUNNY (500 Charts by SUNNY)
+	[G] A huge fan of DULKI (500 Charts by DULKI)
+	[G] A huge fan of CONRAD (500 Charts by CONRAD)
+	[G] A huge fan of SPHAM (500 Charts by SPHAM)
+
+2. Difficulty Titles - get a certain number of passes of a difficulty to get the title
+these require unique passes, UCS and QUEST charts do not count
+		      
+	Use this title calculator for the points needed for the following titles: 	https://docs.google.com/spreadsheets/d/1O3xmKyy3kZlB87YcUIQvnQkA0FMCfhCoPXz2V-o7Lwk/edit?gid=0#gid=0
+I
+	[B] Intermediate Lv. 1 - Diff. 10 Rating 2000+
+	[B] Intermediate Lv. 2 - Diff. 11 Rating 2200+
+	[B] Intermediate Lv. 3 - Diff. 12 Rating 2600+
+	[B] Intermediate Lv. 4 - Diff. 13 Rating 3200+
+	[B] Intermediate Lv. 5 - Diff. 14 Rating 4000+
+	[B] Intermediate Lv. 6 - Diff. 15 Rating 5000+
+	[B] Intermediate Lv. 7 - Diff. 16 Rating 6200+
+	[B] Intermediate Lv. 8 - Diff. 17 Rating 7600+
+	[B] Intermediate Lv. 9 - Diff. 18 Rating 9200+
+	[B] Intermediate Lv. 10 - Diff. 19 Rating 11000+
+	[S] Advanced Lv. 1 - Diff. 20 Rating 13000+ + Intermediate Lv. 10
+	[S] Advanced Lv. 2 - Diff. 20 Rating 26000+ + Advanced Lv. 1
+	[S] Advanced Lv. 3 - Diff. 20 Rating 39000+ + Advanced Lv. 2
+	[S] Advanced Lv. 4 - Diff. 21 Rating 15000+ + Advanced Lv. 3
+	[S] Advanced Lv. 5 - Diff. 21 Rating 30000+ + Advanced Lv. 4
+	[S] Advanced Lv. 6 - Diff. 21 Rating 45000+ + Advanced Lv. 5
+	[S] Advanced Lv. 7 - Diff. 22 Rating 17500+ + Advanced Lv. 6
+	[S] Advanced Lv. 8 - Diff. 22 Rating 35000+ + Advanced Lv. 7
+	[S] Advanced Lv. 9 - Diff. 22 Rating 52500+ + Advanced Lv. 8
+	[S] Advanced Lv. 10 - Diff. 22 Rating 70000+ + Advanced Lv. 9
+	[G] Expert Lv. 1 - Diff. 23 Rating 40000+ + Advanced Lv. 10
+	[G] Expert Lv. 2 - Diff. 23 Rating 80000+ + Expert Lv. 1
+	[G] Expert Lv. 3 - Diff. 24 Rating 30000+ + Expert Lv. 2
+	[G] Expert Lv. 4 - Diff. 24 Rating 60000+ + Expert Lv. 3
+	[G] Expert Lv. 5 - Diff. 25 Rating 20000+ + Expert Lv. 4
+	[G] Expert Lv. 6 - Diff. 25 Rating 40000+ + Expert Lv. 5
+	[G] Expert Lv. 7 - Diff. 26 Rating 13000+ + Expert Lv. 6
+	[G] Expert Lv. 8 - Diff. 26 Rating 26000+ + Expert Lv. 7
+	[D] Expert Lv. 9 - Diff. 27 Rating 3500+ + Expert Lv. 8
+	[D] Expert Lv. 10 - Diff. 27 Rating 7000+ + Expert Lv. 9
+	[D] The Master - Diff. 28 Rating 1900+ + Expert Lv. 10
+
+3. Skill Titles - get an SSS or SSS+ pass on these to get the title
+
+	[B] [TWIST] Lv. 1 - Scorpion King S15
+	[B] [TWIST] Lv. 2 - Street Show Down S16
+	[B] [TWIST] Lv. 3 - U Got Me Rocking S17
+	[S] [TWIST] Lv. 4 - Solitary 2 S18
+	[S] [TWIST] Lv. 5 - U Got 2 Know S19
+	[S] [TWIST] Lv. 6 - Witch Doctor #1 D20
+	[G] [TWIST] Lv. 7 - Love is A Danger Zone D21
+	[G] [TWIST] Lv. 8 - Super Fantasy D22
+	[D] [TWIST] Lv. 9 - Love is A Danger Zone (Cranky Mix) D23
+	[D] [TWIST] Lv. 10 - Bee D24
+	[D] [TWIST] Expert - Obtain All [TWIST] Titles
+
+	[B] [RUN] Lv. 1 - Switronic S15
+	[B] [RUN] Lv. 2 - Super Fantasy S16
+	[B] [RUN] Lv. 3 - Pavane S17
+	[S] [RUN] Lv. 4 - Gothique Resonance S18
+	[S] [RUN] Lv. 5 - Napalm S19
+	[S] [RUN] Lv. 6 - Bee D20
+	[G] [RUN] Lv. 7 - Sarabande D21
+	[G] [RUN] Lv. 8 - Gargoyle - FULL SONG - D22
+	[D] [RUN] Lv. 9 - Baroque Virus - FULL SONG - D23
+	[D] [RUN] Lv. 10 - Yog Sothoth D24
+	[D] [RUN] Expert - Obtain All [RUN] Titles
+
+	[B] [DRILL] Lv. 1 - Hellfire S15
+	[B] [DRILL] Lv. 2 - Vook S16
+	[B] [DRILL] Lv. 3 - Gun Rock S17
+	[S] [DRILL] Lv. 4 - Moonlight S18
+	[S] [DRILL] Lv. 5 - Vacuum S19
+	[S] [DRILL] Lv. 6 - Overblow S20
+	[G] [DRILL] Lv. 7 - Sorceress Elise S21
+	[G] [DRILL] Lv. 8 - Rock the House D22
+	[D] [DRILL] Lv. 9 - Witch Doctor D23
+	[D] [DRILL] Lv. 10 - WI-EX-DOC-VA D24
+	[D] [DRILL] Expert - Obtain All [DRILL] Titles
+
+	[B] [GIMMICK] Lv. 1 - Yeo rae a S13
+	[B] [GIMMICK] Lv. 2 - 8 6 S16 - DONE
+	[B] [GIMMICK] Lv. 3 - Ugly dee S17
+	[S] [GIMMICK] Lv. 4 - Come to Me S17
+	[S] [GIMMICK] Lv. 5 - Rock the House - SHORT CUT - S18
+	[S] [GIMMICK] Lv. 6 - Miss S' Story S19
+	[G] [GIMMICK] Lv. 7 - Nakakapagpabagabag S19
+	[G] [GIMMICK] Lv. 8 - Twist of Fate (feat. Ruriling) S19
+	[D] [GIMMICK] Lv. 9 - 8 6 S20
+	[D] [GIMMICK] Lv. 10 - Everybody Got 2 Know S21
+	[D] [GIMMICK] Expert - Obtain All [GIMMICK] Titles
+
+	[B] [HALF] Lv. 1 - Mopemope (もぺもぺ) D17
+	[B] [HALF] Lv. 2 - Butterfly D17
+	[B] [HALF] Lv. 3 - Shub Niggurath D18
+	[S] [HALF] Lv. 4 - Super Fantasy D18
+	[S] [HALF] Lv. 5 - Phantom D19
+	[S] [HALF] Lv. 6 - Utsushiyo no Kaze D20
+	[G] [HALF] Lv. 7 - Witch Doctor #1 D21
+	[G] [HALF] Lv. 8 - Redline D22
+	[D] [HALF] Lv. 9 - Love is A Danger Zone 2 Try To B.P.M D23
+	[D] [HALF] Lv. 10 - Imprinting D24
+	[D] [HALF] Expert - Obtain All [HALF] Titles
+
+	[B] [BRACKET] Lv. 1 - Allegro Furioso D20
+	[B] [BRACKET] Lv. 2 - Mad5cience S20
+	[B] [BRACKET] Lv. 3 - Meteo5cience (GADGET mix) S21
+	[S] [BRACKET] Lv. 4 - What Happened S21
+	[S] [BRACKET] Lv. 5 - Phalanx "RS2018 mix" S22
+	[S] [BRACKET] Lv. 6 - Meteo5cience (GADGET mix) D22
+	[G] [BRACKET] Lv. 7 - What Happened D23
+	[G] [BRACKET] Lv. 8 - POP SEQUENCE D23
+	[D] [BRACKET] Lv. 9 - Scorpion King D23
+	[D] [BRACKET] Lv. 10 - Phalanx "RS2018 mix" D24
+	[D] [BRACKET] Expert - Obtain All [BRACKET] Titles
+
+	[D] Specialist - Obtain All Skill Titles
+
+4. Co-op Titles - play co-op charts to get the title
+
+	(can’t figure out a rating calculator for now. will try to make one soon)
+
+	[B] Co-op Lv. 1 - Rating 30000+
+	[B] Co-op Lv. 2 - Rating 60000+
+	[B] Co-op Lv. 3 - Rating 90000+
+	[B] Co-op Lv. 4 - Rating 120000+
+	[S] Co-op Lv. 5 - Rating 150000+
+	[S] Co-op Lv. 6 - Rating 180000+
+	[S] Co-op Lv. 7 - Rating 210000+
+	[G] Co-op Lv. 8 - Rating 240000+
+	[G] Co-op Lv. 9 - Rating 270000+
+	[G] Co-op Lv. 10 - Rating 300000+
+	[D] Co-op Advanced - Rating 330000+
+	[D] Co-op Expert - Rating 360000+
+	[D] Co-op Master - Rating 390000+
+
+	[S] Lovers - Play Count 100+
+	[G] Lovers - Play Count 1000+
+
+5. Plate Titles - get a certain number of plates (ex. Fair Game, Marvelous Game, etc.) to get the title
+
+	- 100 Plates / Bronze
+	- 500 Plates / Silver
+	- 1000 Plates / Gold
+	- 3000 Plates / Diamond
+
+	Rough Gamer - 0
+	Fair Gamer - 0
+	Talented Gamer - 0
+	Marvelous Gamer - 0
+	Superb Gamer - 0
+	Extreme Gamer - 0
+	Ultimate Gamer - 0
+	Perfect Gamer - 0
+
+6. Boss Breaker Titles - beat a certain stage to get the title
+
+	These only require a stage pass
+
+	[B] [The 1st] Boss Breaker - Another Truth S6
+	[B] [The 2nd] Boss Breaker - Extravaganza S11
+	[B] [The O.B.G] Boss Breaker - Turkey March S12
+	[B] [The O.B.G SE] Boss Breaker - Mr. Larpus S15
+	[B] [Perfect Collection] Boss Breaker - Slam S18
+	[B] [EXTRA] Boss Breaker - Lazenky Can Can D18
+	[B] [THE REBIRTH] Boss Breaker - Love is A Danger Zone S17
+	[B] [THE PREX3] Boss Breaker - Bee S17
+	[S] [EXCEED] Single Boss Breaker - Dignity S21
+	[G] [EXCEED] Double Boss Breaker - Dignity D24
+	[S] [EXCEED2] Single Boss Breaker - Canon-D S20
+	[S] [EXCEED2] Double Boss Breaker - Canon-D D23
+	[S] [ZERO] Single Boss Breaker - Love is A Danger Zone pt.2 S22
+	[S] [ZERO] Double Boss Breaker - Love is A Danger Zone pt.2 D24
+	[S] [NX] Single Boss Breaker - Bemera S24
+	[G] [NX] Double Boss Breaker - Bemera D26
+	[S] [NX2] Single Boss Breaker - Banya-P Guitar Remix S22
+	[G] [NX2] Double Boss Breaker - Banya-P Guitar Remix D24
+	[S] [NXA] Single Boss Breaker - Final Audition Episode 2-X S23
+	[G] [NXA] Double Boss Breaker - Final Audition Episode 2-X D24
+	[S] [FIESTA] Single Boss Breaker - Vacuum S23
+	[G] [FIESTA] Double Boss Breaker - Vacuum D25
+	[G] [FIESTA EX] Single Boss Breaker - Vacuum Cleaner S25
+	[G] [FIESTA EX] Double Boss Breaker - Vacuum Cleaner D26
+	[S] [FIESTA 2] Single Boss Breaker - Ignis Fatuus (DM Ashura Mix) S22
+	[G] [FIESTA 2] Single Boss Breaker - Ignis Fatuus (DM Ashura Mix) D25
+	[G] [PRIME] Single Boss Breaker - PARADOXX S26
+	[D] [PRIME] Double Boss Breaker - PARADOXX D28
+	[G] [PRIME2] Single Boss Breaker - Shub Sothoth S25
+	[D] [PRIME2] Double Boss Breaker - Shub Sothoth D27
+	[G] [XX] Single Boss Breaker - ERRORCODE: 0 S25
+	[D] [XX] Double Boss Breaker - 1949 D28
+
+7. Play Count Titles - play credits x amount of times to get the title
+
+	(since free play doesn’t add to your play count these titles are impossible to get in simulator)
+
+	[B] Gold Member - Play count 100+
+	[S] Platinum Member - Play count 500+
+	[G] Diamond Member - Play count 1000+
+	[D] VIP Member - Play Count 5000+
+	[D] VVIP Member - Play Count 10000+
+
+8. Miscellaneous Titles - ¯\_(ツ)_/¯
+
+	[G] Pump Is A Sense - Love is A Danger Zone D21 SSS+
+	[G] No Skills No Pump - Moonlight D21 SSS+
+	[G] Doge Major Stockholder - Waltz of Doge D20 Max Combo 888
+	[G] B.P.M. Follower - Beethoven Virus D18 927 Perfect / 1 Great / 2 Miss / Max Combo 747
+	[D] Human Metronome - Yeo rae a S1 - CLEAR with less than 180000 points
+	[D] Perfect Breaker - Gargoyle - FULL SONG - S21 - CLEAR with 444444 points or less
+	[B] Cheater - Clear Diff. 27+ with Superb Game+
+	[G] Scrooge - 10000+ PP
+
+9. Staff Titles (these have a black background color)
+
+	- PIU GUARDIAN - given to players who made a significant contribution to PIU
+	- PIU SUPPORTER - given to PIU supporters (people who announce Pump news/are in contact with Andamiro)
+	- PIU ARTIST - given to PIU artists
+	- PIU STEPMAKER - given to stepmakers
+	- PIU STAFF - given to staff
+
+10. Event Titles
+
+	(PlayX4 stuff taken from this post: https://www.facebook.com/groups/piuphilippines/posts/10165203753513448/)
+	
+	Black Background Color
+
+	- B1G ONE 2024 PLAYER - given to players in B1G ONE 2024
+	- B1G ONE 2024 SUPPORTER - given to supporters of B1G ONE 2024
+
+	Purple Background Color
+
+	- Dominion Challenger - given to PlayX4 Dominion Participants
+	- Rise Challenger - given to PlayX4 Dominion RISE League Players
+	- Phoenix Challenger - given to PlayX4 Dominion PHOENIX League Players
